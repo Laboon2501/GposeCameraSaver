@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json
 5. Use rename and delete actions to keep your preset list organized.  
    使用重命名和删除功能整理你的预设列表。
    
-7. Delete preset by right clicking "load".
+6. Delete preset by right clicking "load".  
    右键“加载”来删除预设。
 
 ---
