@@ -1,0 +1,15 @@
+{
+  "Author": "Eunox",
+  "Name": "Gpose Camera Saver",
+  "InternalName": "GposeCameraSaver",
+  "Punchline": "Save and restore GPose camera presets.",
+  "Description": "Save, load, and manage GPose camera presets.",
+  "RepoUrl": "https://github.com/Laboon2501/GposeCameraSaver",
+  "IconUrl": "https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/icon.png",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "gpose",
+    "camera",
+    "presets"
+  ]
+}
