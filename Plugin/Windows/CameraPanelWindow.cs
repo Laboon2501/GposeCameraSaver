@@ -120,7 +120,7 @@ public sealed class CameraPanelWindow : Window, IDisposable
     private void DrawStateAndSave()
     {
         ImGui.TextUnformatted(loc.T("Note"));
-        ImGui.SetNextItemWidth(-1);
+        ImGui.SetNextItemWidth(260);
         ImGui.InputText("##PresetNote", ref note, 256);
 
         ImGui.SameLine();
