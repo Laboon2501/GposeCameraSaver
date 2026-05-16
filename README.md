@@ -30,19 +30,29 @@ Gpose Camera Saver 是一款 Dalamud 插件，用于保存、加载与管理 GPo
 2. Open **Third-Party Plugin Repositories** settings.  
    打开 **第三方插件仓库** 设置。
 
-3. Add the following repository URL:  
+3. Add the following unified repository URL:  
    添加以下插件仓库地址：
 
    ```text
-   https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json
+   https://raw.githubusercontent.com/Laboon2501/DalamudPlugins/main/repo.json
    ```
 
 4. Update the plugin list and install **Gpose Camera Saver**.  
    更新插件列表，然后安装 **Gpose Camera Saver**。
 
+> The old standalone repository URL `https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json` is deprecated and kept only for compatibility. If you added it before, remove the old source after adding the unified source to avoid duplicate plugin entries.
+>
+> 旧的单独插件源 `https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json` 已废弃，仅为兼容保留。如果之前添加过旧源，请在添加统一源后删除旧源，避免插件安装器里出现重复插件。
+
 ---
 
 ## Custom Plugin Repository URL / 自定义插件仓库地址
+
+```text
+https://raw.githubusercontent.com/Laboon2501/DalamudPlugins/main/repo.json
+```
+
+Deprecated standalone URL / 已废弃的单独源：
 
 ```text
 https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json
